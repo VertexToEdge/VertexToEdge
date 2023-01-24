@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![VertexToEdge's GitHub stats](https://github-readme-stats.vercel.app/api?username=VertexToEdge&count_private=true)
 
-
-aabbab
+<table style="border-collapse: collapse; border: none;">
+    <tbody>
+        <tr style="border: none;">
+            <td style="border: none;">
+                <a href="https://solved.ac/h0422ys"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h0422ys"/></a>
+            </td>
+            <td style="border: none;">
+                <img src="https://github-readme-stats.vercel.app/api?username=VertexToEdge&count_private=true"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
